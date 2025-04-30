@@ -6,7 +6,7 @@ from tkinter import *
 
 root = Tk()
 root.geometry("400x400")
-root.title("Fileion URL Shorter")
+root.title("Fileion URL Shortener")
 root.configure(bg="#49A")
 url = StringVar()
 url_address = StringVar()
